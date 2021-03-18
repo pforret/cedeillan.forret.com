@@ -10,11 +10,11 @@ copyright: "Copyright &copy; 2021 - Peter Forret"
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Website Header"
+header: "Domaine de Cedeillan"
 # 2nd heading/sub heading of the website.
-subheader: "Website Subheader"
+subheader: "11330 Massac, France"
 # A description/bio of the website.
-bio: "Website Bio"
+bio: "Trop beau"
 social:
   # Your Twitter username.
   twitter_username: ""
