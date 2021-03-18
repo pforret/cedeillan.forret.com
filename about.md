@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A propos 
-fonticon: fa-info
+fonticon: fa-info-circle
 ---
 
 ## Département de l'Aude
