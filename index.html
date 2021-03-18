@@ -7,6 +7,7 @@ layout: default
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}{% if node.title %}
         <article>
+            {% if node.fonticon %}<i class="fa {{node.fonticon}}"></i> {% endif %}
         <a class="" href="{{ node.url }}">
             {{ node.title }}
         </a>

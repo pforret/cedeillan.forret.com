@@ -814,10 +814,10 @@
 		padding: 3em 2.25em 1.75em 2.25em ;
 	}
 
-		#header h1 {
-			font-size: 2.25em;
-			font-weight: 700;
-		}
+    #header h1 {
+        font-size: 2.25em;
+        font-weight: 700;
+    }
 
 /* Footer */
 
@@ -927,7 +927,7 @@
     position: relative;
     text-align: left;
     width: 50%;
-    background: #101010;
+    background: #F8F8F8;
     outline: 0;
 }
 
