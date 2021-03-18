@@ -5,12 +5,13 @@ layout: default
     <!-- Pages -->
     <section id="page">
         {% assign pages_list = site.pages %}
-        {% for node in pages_list %}
+        {% for node in pages_list %}{% if node.title %}
         <article>
         <a class="" href="{{ node.url }}">
             {{ node.title }}
         </a>
         </article>
+        {% endif %}
         {% endfor %}
     </section>
 
