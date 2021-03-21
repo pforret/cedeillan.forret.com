@@ -14,9 +14,8 @@ Elle est reliée par la D10 au centre du village de Massac et son lac (à 3 km).
 Le domaine est située  à environ 1/4 h de [La Roque de Fa](http://www.laroquedefa.fr/) pour les petits achats et 1h de de route pour les grands magasins de Couiza / Limoux / Carcassonne / Narbonne / Perpignan.
 On peut faire des ballades dans le [Pays Cathare](https://www.payscathare.org/les-sites) (Peyréperthuse/Cucugnan /Quéribus).
 
-Le domaine a un accès privé d'environ 300m à partir de la D10;
+Le domaine a un accès privé d'environ 300m à partir de la D10. Le bâtiment comprend, depuis une vingtaine d'années, 3 maisons restaurées et embellies, à l'intérieur et à l'extérieur.
+On peut jouir d'une vue pictorale sur la pente boisée du col de Cédeillan d'une cour de 330 m².
+Sur le coté il y a une deuxiéme terrasse avec vue superbe sur la Vallée de Cédeillan.
 
-Le bâtiment comprend, depuis une vingtaine d'années, 3 maisons restaurées et embellies, à l'intérieur et à l'extérieur.
-On peut jouir d'une vue pictorale sur la pente boisée du col de Cédeillan d'une cour de 330 m²
-Sur le coté il y a une deuxiéme terrasse avec vue suprrbe  sur la Vallée de Cédeillan
-Il est connecté au réseau électrique, à la ligne téléphonique (internet possible) et à l'eau de la source communale à Cédeillan, reconstruite en 2020. Les maisons sont équipées de menuiseries en bois et simple vitrage, chaufféés par un poêle à bois. L'assainissement non collectif partagé par les 3 maisons est renouvellé en 2021 sous la direction de la SPANC (Service Publique d' Assainissement Non Collectif).
+La maison est connecté au réseau électrique, à la ligne téléphonique (internet possible) et à l'eau de la source communale à Cédeillan, reconstruite en 2020. Les maisons sont équipées de menuiseries en bois et simple vitrage, chaufféés par un poêle à bois. L'assainissement non collectif partagé par les 3 maisons est renouvellé en 2021 sous la direction de la SPANC (Service Publique d' Assainissement Non Collectif).
