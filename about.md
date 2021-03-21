@@ -11,8 +11,8 @@ Il s'agit d'un bâtiment en pierre (8m x35m) et une remise (72m²) sur un terrai
 de terres boisées et de landes.
 
 Elle est reliée par la D10 au centre du village de Massac et son lac (à 3 km).
-Le domaine est située  à environ 1/4 h de La Roque de Fa pour les petits achats et 1h de de route pour les grands magasins de Couiza / Limoux / Carcassonne / Narbonne / Perpignan.
-On peut faire des ballades dans le Pays Cathare (Peyréperthuse/Cucugnan /Quéribus).
+Le domaine est située  à environ 1/4 h de [La Roque de Fa](http://www.laroquedefa.fr/) pour les petits achats et 1h de de route pour les grands magasins de Couiza / Limoux / Carcassonne / Narbonne / Perpignan.
+On peut faire des ballades dans le [Pays Cathare](https://www.payscathare.org/les-sites) (Peyréperthuse/Cucugnan /Quéribus).
 
 Le domaine a un accès privé d'environ 300m à partir de la D10;
 
